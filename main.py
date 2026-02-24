@@ -67,11 +67,3 @@ if __name__ == "__main__":
     main()
 ```
 
----
-
-### File 2 of 7 — `requirements.txt`
-*(create this at the root level)*
-```
-pandas>=1.5.0
-matplotlib>=3.5.0
-yfinance>=0.2.0
